@@ -16,10 +16,10 @@ The word representations introduced by Stenetorp et al. (2012) can be found
 ## Code ##
 
 The code used for the Named Entity Recognition (NER) experiments can be found
-at [here][ner_repo].
+[here][ner_repo].
 
 The code used for the Semantic Category Disambiguation (SCD) experiments can
-be found at [here][scd_repo].
+be found [here][scd_repo].
 
 [ner_repo]: https://github.com/ogh/wordreprs_ner
 [scd_repo]: https://github.com/ninjin/contra
