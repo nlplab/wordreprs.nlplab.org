@@ -4,11 +4,12 @@ layout: base
 
 # Word Representations #
 
-This page contains data and code related
+This page contains data and code related the publication "Size (and Domain)
+Matters: Evaluating Semantic Word" by Stenetorp et al. (2012).
 
 ## Data ##
 
-The word representations introduced by Stenetorp et al. (2012) can be found
+The word representations introduced in the publication can be found
 [here][word_representations].
 
 [word_representations]: http://weaver.nlplab.org/~soyerh/data/stenetorp2012size_ner/stenetorp2012size_ner_data.tar.gz
