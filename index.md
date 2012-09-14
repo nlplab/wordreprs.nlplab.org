@@ -5,7 +5,8 @@ layout: base
 # Word Representations #
 
 This page contains data and code related the publication "Size (and Domain)
-Matters: Evaluating Semantic Word" by Stenetorp et al. (2012).
+Matters: Evaluating Semantic Word Representations for Biomedical Text"
+by Stenetorp et al. (2012).
 
 ## Data ##
 
