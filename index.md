@@ -4,9 +4,11 @@ layout: base
 
 # Word Representations #
 
-This page contains data and code related the publication "Size (and Domain)
+This page contains data and code related the publication ["Size (and Domain)
 Matters: Evaluating Semantic Word Representations for Biomedical Text"
-by Stenetorp et al. (2012).
+by Stenetorp et al. (2012)][stenetorp2012size].
+
+[stenetorp2012size]: http://www.zora.uzh.ch/64476/11/06_Size_and_Domain_matters.pdf
 
 ## Data ##
 
