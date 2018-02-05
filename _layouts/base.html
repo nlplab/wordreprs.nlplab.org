@@ -1,7 +1,10 @@
-<!doctype html>
 <html lang="en">
     <head>
-        <meta charset="utf-8">
+        <meta charset="utf-8"/>
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/skeleton.css">        
         <title>
             {% if page.title %}
                 {{ page.title }} -
@@ -11,7 +14,9 @@
         <!-- Google Analytics -->
         <script type="text/javascript" src="google_analytics.js"></script>
     </head>
-    <body>
-        {{ content }}
-    </body>
+    <div class="container">
+        <div class="row">
+         {{ content }}
+        </div>
+    </div>
 </html>
